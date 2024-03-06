@@ -12,8 +12,7 @@ export default function Footer() {
             display: 'flex', 
             alignItems: 'center', 
             justifyContent: 'center',
-            fontWeight: '800',
-            
+            fontWeight: '800',           
             }}>
             © Copywrite {new Date().getFullYear} Nadeera Perera
         </small>
